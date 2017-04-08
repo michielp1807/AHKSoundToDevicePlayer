@@ -1,3 +1,0 @@
-This is a autohotkey script to play sounds to a specific device when a hotkey is triggered.
-
-Open soundeffects.ahk in a text editor for more info and to add your own hotkeys with sounds.
