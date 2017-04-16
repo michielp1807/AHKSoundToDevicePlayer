@@ -19,7 +19,7 @@ AudioDevice = 5
 ; ^ -> Control Key
 ; + -> Shift Key
 ;
-; ~ -> Still send hotkey through to other programs, without this character other programs will not respond to the hotkey you're using in this script
+; ~ -> Still send hotkey through to other programs, without this character other programs will not respond to the hotkey when you're using in this script
 ;
 ; Exmples:
 ; 
